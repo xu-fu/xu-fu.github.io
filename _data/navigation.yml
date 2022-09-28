@@ -7,10 +7,10 @@ main:
     url: "/#news"
 
   - title: "Journal Articles"
-    url: "/#Journal-Articles"
+    url: "/#journal-articles"
 
   - title: "Conference Articles"
-    url: "/#Conference-Articles"
+    url: "/#conference-articles"
 
   # - title: "Honors and Awards"
   #   url: "/#honors-and-awards"
