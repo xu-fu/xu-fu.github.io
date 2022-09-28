@@ -632,9 +632,13 @@ My personal introduction.
 #  Journal Articles 
 
 - None
+
 [1] **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition.
+
 [2] **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition.
+
 [3] **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition.
+
 My personal introduction.
 My personal introduction.
 My personal introduction.
