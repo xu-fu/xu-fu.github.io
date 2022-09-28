@@ -12,11 +12,12 @@ main:
   - title: "Conference Articles"
     url: "/#ConferenceArticles"
 
-  # - title: "Honors and Awards"
-  #   url: "/#honors-and-awards"
 
-  # - title: "Educations"
-  #   url: "/#educations"
+  - title: "Educations"
+    url: "/#Educations"
+
+  - title: "Honors and Awards"
+    url: "/#Honors-and-Awardss"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"

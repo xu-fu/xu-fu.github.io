@@ -631,7 +631,7 @@ My personal introduction.
 #  Journal Articles 
 
 
-[1] None
+[1] None.
 
 
 
@@ -639,4 +639,19 @@ My personal introduction.
 
 #  Conference Articles
 
-[1] None
+[1] None.
+
+
+<span class='anchor' id='Educations'></span>
+
+#   Educations
+
+- *2019.9-2022.6*:  Shandong University;
+- *2022.9-*:  Beihang University.
+
+
+<span class='anchor' id='Honors-and-Awards'></span>
+
+#   Honors and Awards
+
+- None.
