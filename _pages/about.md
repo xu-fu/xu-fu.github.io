@@ -51,7 +51,7 @@ My personal introduction.
 #   Educations
 
 - *2019.9 - 2022.6*:  Shandong University;
-- *2022.9 -* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:  Beihang University.
+- *2022.9 -* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:  Beihang University.
 
 
 <span class='anchor' id='Honors-and-Awards'></span>
