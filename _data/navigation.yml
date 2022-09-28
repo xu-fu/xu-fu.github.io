@@ -7,7 +7,7 @@ main:
     url: "/#news"
 
   - title: "Journal Articles"
-    url: "/#Journal Articles"
+    url: "/#JournalArticles"
 
   - title: "Conference Articles"
     url: "/#ConferenceArticles"
