@@ -24,7 +24,7 @@ My personal introduction.
 
 
 #  News
-- *2022.9.28*: &nbsp;🎉🎉 create my weebset 
+- *2022.9.28*: &nbsp;🎉🎉 create my webset 
 
 
 
