@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xu Fu"
-description              : "The PhD student at Beihang University. "
+description              : "A PhD student at Beihang University. "
 repository               : #"RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "xufu0106@126.com"
+  email            : "fuxu2022@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
